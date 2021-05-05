@@ -17,6 +17,9 @@ Includes information found in the Shot Chart data of FIBA LiveStats:
 
 ## Notes
 x and y are in 10 cm intervals. 1 unit of x or y = 10 centimeters (0.1 meters). Meaning, a point with coordinates (10, 10) is 100cm (10 * 10cm) to the right and 100 cm away from the basket.
+RAW - dataset as scraped from FIBA LiveStats
+CLEANED - cleaned some problems with player names, etc.
+
 
 Original data extracted from [FIBA LiveStats](https://www.fibalivestats.com/).
 
